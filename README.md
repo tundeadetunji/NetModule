@@ -9,3 +9,5 @@ Uses:
 
 May use:
 NewtonSoft.Json 10.0.0
+
+Thanks!
